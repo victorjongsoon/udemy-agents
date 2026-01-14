@@ -1,2 +1,7 @@
-My name is Ed Donner. I'm an entrepreneur, software engineer and data scientist. I'm originally from London, England, but I moved to NYC in 2000.
-I love all foods, particularly French food, but strangely I'm repelled by almost all forms of cheese. I'm not allergic, I just hate the taste! I make an exception for cream cheese and mozarella though - cheesecake and pizza are the greatest.
+Hi my name is Victor Jong Soon Peng.
+
+I am a backend-focused Software Engineer with experience delivering and modernising large-scale government digital services. I specialize in transforming legacy systems into cloud-ready, RESTful Spring Boot architectures, building secure API integrations, and executing high-volume data migrations with strong reliability and auditability requirements. My work spans Spring Batch ETL pipelines, Oracle PL/SQL automation, and real-time system integrations supporting thousands of daily transactions.
+
+I have hands-on experience designing fault-tolerant batch processing workflows, modernizing SOAP-based platforms into scalable REST APIs, and maintaining high-availability systems through centralized logging and exception diagnostics. I have also built AI-powered RAG prototypes for talent matching, applying vector search and data pipelines to improve project staffing accuracy.
+
+I am currently pursuing a Master of Technology in AI Systems and hold multiple cloud and AI certifications (AWS and Azure), positioning me strongly at the intersection of backend engineering, data pipelines, and applied AI systems.
