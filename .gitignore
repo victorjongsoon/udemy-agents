@@ -186,3 +186,9 @@ memory.db
 # Ignore Accounts database in capstone project
 6_mcp/accounts.db
 6_mcp/memory/*.db
+
+# Ignore Node JS
+node_modules/
+npm-debug.log*
+yarn.lock
+pnpm-lock.yaml
